@@ -1,14 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Club Gamma Open Source</title>
-    <link>https://google.com</link>
-    <description>Recent content on Club Gamma</description>
+    <link>https://clubgamma.github.io/Whoami/</link>
+    <description>Recent content on Club Gamma Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://clubgamma.github.io/Whoami/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aryan Kadiya</title>
+      <link>https://clubgamma.github.io/Whoami/contributors/aryankadiya/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://clubgamma.github.io/Whoami/contributors/aryankadiya/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Aryan Kadiya.
+My name is Aryan Kadiya and pursing my Bachelor’s Degree from Charotar University of Science and Technology and currently studying in fourth year. I also have a Youtube channel so if you have some free time then do checkout my channel.
+Have a nice day friend.
+You can find me at
+ YouTube LinkedIn Github Gmail  Thank You</description>
+    </item>
     
-	<atom:link href="https://google.com" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heer</title>
+      <link>https://clubgamma.github.io/Whoami/contributors/heer/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://clubgamma.github.io/Whoami/contributors/heer/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Heer.
+My name is Heer and pursing my Bachelor’s Degree from Charotar University of Science and Technology and currently studying in Third year. I like eating chocolates.
+Thank You</description>
+    </item>
     
   </channel>
 </rss>
