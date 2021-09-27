@@ -1,4 +1,4 @@
-baseURL = "https://clubgamma.github.io/Whoami/public"
+baseURL = "https://clubgamma.github.io/Whoami/"
 languageCode = "en-us"
 title = 'Club Gamma Open Source'
 theme = "pulp"
