@@ -11,7 +11,7 @@ theme = "pulp"
     avatar = "logo.jpeg"
     favicon = "favicon.ico"
     description = """
-        Welcome to the Club Gamma.
+        Welcome to Club Gamma.
         Click on the "edit" icon below to see contributors list. Fork the repo and check the README.md
     """
     publicationYear = "2021"
