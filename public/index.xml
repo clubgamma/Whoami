@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Club Gamma Open Source</title>
-    <link>https://clubgamma.github.io/Whoami/</link>
+    <link>https://clubgamma.github.io/Whoami/public/</link>
     <description>Recent content on Club Gamma Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://clubgamma.github.io/Whoami/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://clubgamma.github.io/Whoami/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aryan Kadiya</title>
-      <link>https://clubgamma.github.io/Whoami/contributors/aryankadiya/</link>
+      <link>https://clubgamma.github.io/Whoami/public/contributors/aryankadiya/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://clubgamma.github.io/Whoami/contributors/aryankadiya/</guid>
+      <guid>https://clubgamma.github.io/Whoami/public/contributors/aryankadiya/</guid>
       <description>About me Hello All,
 I&amp;rsquo;m Aryan Kadiya.
 My name is Aryan Kadiya and pursing my Bachelor’s Degree from Charotar University of Science and Technology and currently studying in fourth year. I also have a Youtube channel so if you have some free time then do checkout my channel.
@@ -23,10 +23,10 @@ You can find me at
     
     <item>
       <title>Heer</title>
-      <link>https://clubgamma.github.io/Whoami/contributors/heer/</link>
+      <link>https://clubgamma.github.io/Whoami/public/contributors/heer/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://clubgamma.github.io/Whoami/contributors/heer/</guid>
+      <guid>https://clubgamma.github.io/Whoami/public/contributors/heer/</guid>
       <description>About me Hello All,
 I&amp;rsquo;m Heer.
 My name is Heer and pursing my Bachelor’s Degree from Charotar University of Science and Technology and currently studying in Third year. I like eating chocolates.

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Club Gamma Open Source</title>
-    <link>https://clubgamma.github.io/Whoami/series/</link>
+    <link>https://clubgamma.github.io/Whoami/public/series/</link>
     <description>Recent content in Series on Club Gamma Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://clubgamma.github.io/Whoami/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://clubgamma.github.io/Whoami/public/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
