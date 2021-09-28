@@ -16,23 +16,23 @@ My name is Aryan Kadiya and pursing my Bachelor’s Degree from Charotar Univers
 Here is one poem by Joyce Alcantara which I find very inspiring:
 
 
-*You may see me struggle,\
-but you won't see me fall.\
-Regardless if I'm weak or not,\
-I'm going to stand tall.\
-Everyone says life is easy,\
-but truly living it is not.\
-Times get hard,\
-people struggle\
-and constantly get put on the spot.\
-I'm going to wear the biggest smile,\
-even though I want to cry.\
-I'm going to fight to live,\
-even though I'm destined to die.\
-And even though it's hard\
-and I may struggle through it all,\
-you may see me struggle...\
-but you will NEVER see me fall.* 
+- *You may see me struggle,*
+- *but you won't see me fall.*
+- *Regardless if I'm weak or not,*
+- *I'm going to stand tall.*
+- *Everyone says life is easy,*
+- *but truly living it is not.*
+- *Times get hard,*
+- *people struggle*
+- *and constantly get put on the spot.*
+- *I'm going to wear the biggest smile,*
+- *even though I want to cry.*
+- *I'm going to fight to live,*
+- *even though I'm destined to die.*
+- *And even though it's hard*
+- *and I may struggle through it all,*
+- *you may see me struggle...*
+- *but you will NEVER see me fall.* 
 
 
 
