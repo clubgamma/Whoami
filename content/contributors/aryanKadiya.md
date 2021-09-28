@@ -10,7 +10,35 @@ Hello All,
 
 I'm Aryan Kadiya.
 
-My name is Aryan Kadiya and pursing my Bachelor’s Degree from Charotar University of Science and Technology and currently studying in fourth year. I also have a Youtube channel so if you have some free time then do checkout my channel.
+My name is Aryan Kadiya and pursing my Bachelor’s Degree from Charotar University of Science and Technology and currently studying in Third year. I like knowing about human psychology and philosophy.
+
+
+Here is one poem by Joyce Alcantara which I find very inspiring:
+
+
+*You may see me struggle,</br>
+but you won't see me fall.</br>
+Regardless if I'm weak or not,</br>
+I'm going to stand tall.</br>
+Everyone says life is easy,</br>
+but truly living it is not.</br>
+Times get hard,</br>
+people struggle</br>
+and constantly get put on the spot.</br>
+I'm going to wear the biggest smile,</br>
+even though I want to cry.</br>
+I'm going to fight to live,</br>
+even though I'm destined to die.</br>
+And even though it's hard</br>
+and I may struggle through it all,</br>
+you may see me struggle...</br>
+but you will NEVER see me fall.*</br>
+
+
+
+
+
+
 
 Have a nice day friend.
 
