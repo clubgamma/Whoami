@@ -4,7 +4,9 @@
 We all get confused a lot when we start contributing to open-source that how
 this thing works. To make whole open-source contribution thing easy for beginners to understand
 Club Gamma has introduced this new concept in which open-source contribution is simplified.
-Basically this project will give you the feel of how contribution to big open-source projects works 
+Basically this project will give you the feel of how contribution to big open-source projects works.
+
+This repo contains the source code of : https://clubgamma.github.io/Whoami/public/
 
 ## But what contributors need to contribute
 
