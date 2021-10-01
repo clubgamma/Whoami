@@ -8,9 +8,7 @@ draft: false
 ## About me
 Hello,
 
-I'm Gabriele Fedi.
-
-I have a degree in computer science and I am currently doing an apprenticeship at EDB in order to contribute to the opensource world of postgres.
+I'm Gabriele Fedi. I decided to introduct myself in third person becouse I think it could be more fun.
 
 Gabriele loves computer science and software engineering. He started experimenting with this science as a teenager, attending some courses in the early years of high school. He continues his studies at the University of Florence, graduating with full marks and honors.
 After a few years of work experience in web development, most of which parallel to academic courses, he began to appreciate the open source world and the community around PostgreSQL.
