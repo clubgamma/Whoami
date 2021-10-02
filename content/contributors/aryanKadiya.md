@@ -10,7 +10,7 @@ Hello All,
 
 I'm Aryan Kadiya.
 
-My name is Aryan Kadiya and pursing my Bachelor’s Degree from Charotar University of Science and Technology and currently studying in Third year. I like knowing about human psychology and philosophy.
+My name is Aryan Kadiya and pursing my Bachelor’s Degree from Charotar University of Science and Technology and currently studying in Third year. I like knowing about human psychology and philosophy. I like to listen to songs.
 
 
 Here is one poem by Joyce Alcantara which I find very inspiring:
